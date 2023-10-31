@@ -2,32 +2,27 @@
 
 I'm ryan.  <br><br>
 currently im a compsci student making his way through university. <br>
-on this github u can find some of the projects that ive worked on both for school assignments and for hobby
-
-
-
-
-                            Fight Bugs                      |     |
-                                                            \\_V_//
-                                                            \/=|=\/
-                                                             [=v=]
-                                                           __\___/_____
-                                                          /..[  _____  ]
-                                                         /_  [ [  M /] ]
-                                                        /../.[ [ M /@] ]
-                                                       <-->[_[ [M /@/] ]
-                                                      /../ [.[ [ /@/ ] ]
-                                 _________________]\ /__/  [_[ [/@/ C] ]
-                                <_________________>>0---]  [=\ \@/ C / /
-                                   ___      ___   ]/000o   /__\ \ C / /
-                                      \    /              /....\ \_/ /
-                                   ....\||/....           [___/=\___/
-                                  .    .  .    .          [...] [...]
-                                 .      ..      .         [___/ \___]
-                                 .    0 .. 0    .         <---> <--->
-                              /\/\.    .  .    ./\/\      [..]   [..]
-                             / / / .../|  |\... \ \ \    _[__]   [__]_
-                            / / /       \/       \ \ \  [____>   <____]
+on this github u can find some of the projects that ive worked on both for school assignments and for hobby  
+        
+                                                                             )
+                                                                    )      ((     (
+                                                                   (        ))     )
+                                                            )       )      //     (
+                                                       _   (        __    (     ~->>
+                                                ,-----' |__,_~~___<'__`)-~__--__-~->> <
+                                                | //  : | -__   ~__ o)____)),__ - '> >-  >
+                                                | //  : |- \_ \ -\_\ -\ \ \ ~\_  \ ->> - ,  >>
+                                                | //  : |_~_\ -\__\ \~'\ \ \, \__ . -<-  >>
+                                                `-----._| `  -__`-- - ~~ -- ` --~> >
+                                                 _/___\_    //)_`//  | ||]
+                                           _____[_______]_[~~-_ (.L_/  ||
+                                          [____________________]' `\_,/'/
+                                            ||| /          |||  ,___,'./
+                                            ||| \          |||,'______|
+                                            ||| /          /|| I==||
+                                            ||| \       __/_||  __||__
+                                        -----||-/------`-._/||-o--o---o---
+                                          ~~~~~'
 
 <!--
 **rmcs9/rmcs9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 I'm ryan.  <br><br>
 currently im a compsci student making his way through university. <br>
-on this github u can find some of the projects that ive worked on both for school assignments and for hobby  
+on this github you can find some of the projects that ive worked on both for school assignments and for hobby  
         
                                                                              )
                                                                     )      ((     (
